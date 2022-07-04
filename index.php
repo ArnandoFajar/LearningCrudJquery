@@ -105,6 +105,7 @@
     <div style="text-align: left;">
         <h2>Simple Crud Ajax dan PHP</h2>
         <div id="contentData"></div>
+        <div class="tes"></div>
     </div>
 </body>
 </html>
